@@ -1,6 +1,7 @@
 {
     "name": "upshift-vscode-extensions",
     "displayName": "upshift-vscode-extensions",
+    "repository": "https://github.com/UpShiftNZ/upshift-vscode-extensions",
     "description": "",
     "version": "0.0.1",
     "engines": {
