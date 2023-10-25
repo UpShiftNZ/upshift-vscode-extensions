@@ -145,6 +145,7 @@
     "[css]": {
         "editor.defaultFormatter": "vscode.css-language-features"
     },
+    "css.lint.unknownAtRules": "ignore",
     "tinker-this.phpPath": "docker-compose exec -T laravel.test php",
     "debug.allowBreakpointsEverywhere": true,
     "git.autofetch": true,
